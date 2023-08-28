@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  background-color: bisque;
+}
+
+.links {
+  margin-top: 30px;
+}
+.links a {
+  padding: 30px;
+  text-decoration: underline;
+  color: black;
+}
+.email-link {
+  color: rgb(200, 16, 236);
+}
